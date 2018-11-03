@@ -1,0 +1,24 @@
+1.用户表（已有）
+id，登录名，密码，用户类型，创建时间，更新时间，最新登陆时间
+
+2.老师注册表（需要新建）
+id，school name，website，first name，middle name，last name，sex，e-mail，Account，Password
+
+3.存放注册邮箱和验证码表（需要新建）
+id，e-mail，code，isSignedUp
+
+4.班级表（需要新建）
+id，classNumber，startTime，endTime，professorid
+
+5.班级助理表（需要新建）
+id，first name，middle name，last name，e-mail，classNumber
+
+6.学生表（需要新建）
+id，studentNum，appuserid,  first name，middle name，last name，e-mail，classNumber
+
+7.感恩内容表(已有)
+
+8.感恩人员关系表（已有）
+
+9.用户属性表（已有）
+
